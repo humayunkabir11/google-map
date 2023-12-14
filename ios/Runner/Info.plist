@@ -35,6 +35,8 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
+
+
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
@@ -45,5 +47,12 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+
+    <key>NSLocationWhenInUseUsageDescription</key>
+
+    <key>NSLocationAlwaysUsageDescription</key>
+
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 </dict>
 </plist>
